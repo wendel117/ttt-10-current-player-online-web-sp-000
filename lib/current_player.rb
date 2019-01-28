@@ -4,3 +4,5 @@ def turn_count(board)
   if input != " "
     counter += 1
 end
+end
+end
