@@ -4,3 +4,4 @@ def turn_count
     then counter += 1
   return "#{counter}"
 end
+end
